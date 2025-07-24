@@ -1,4 +1,4 @@
 suma = 0
-for i in range(1, 101):
-    suma += i
+for harri in range(1, 101):
+    suma += harri
 print(suma)
